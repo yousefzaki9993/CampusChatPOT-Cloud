@@ -14,20 +14,19 @@ def build():
 
     questions = [faq["question"] for faq in faqs]
 
-    # Load Sentence-BERT model
-    print("🔄 Loading BERT model (all-MiniLM-L6-v2)...")
+    print(" Loading BERT model (all-MiniLM-L6-v2)")
     model = SentenceTransformer("all-MiniLM-L6-v2")
 
-    # Encode all questions → embeddings
-    print("🔄 Encoding questions...")
+   
+    print(" Encoding questions...")
     embeddings = model.encode(questions, convert_to_numpy=True, normalize_embeddings=True)
 
-    # Save embeddings
+ 
     with open(VECTORS_PATH, "wb") as f:
         pickle.dump({"model": model, "embeddings": embeddings}, f)
 
     abs_path = os.path.abspath(VECTORS_PATH)
-    print(f"✅ BERT embeddings built and saved to: {abs_path}")
+    print(f"BERT embeddings built and saved to: {abs_path}")
 
 if __name__ == "__main__":
     build()
