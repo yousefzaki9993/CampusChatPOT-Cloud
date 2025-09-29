@@ -1,0 +1,104 @@
+[
+  
+  {
+  "question": "How can I register for a course?",
+  "answer": "You can register for courses through the student portal under 'Course Registration' or by visiting the registrar’s office."
+ },
+
+  {
+    "question": "When does registration for the new semester start?",
+    "answer": "Registration opens on September 1 and continues until September 15 through the student portal."
+  },
+  {
+    "question": "Can I register for courses after the deadline?",
+    "answer": "Late registration is allowed within one week after the deadline with a penalty fee."
+  },
+  {
+    "question": "What documents are required for registration?",
+    "answer": "You need to provide a national ID, academic transcripts, and tuition payment receipt."
+  },
+  {
+    "question": "How can I drop a course after registration?",
+    "answer": "You can drop a course within the first 4 weeks through the student portal or the registrar’s office."
+  },
+  {
+    "question": "What is the maximum number of credit hours I can register?",
+    "answer": "Undergraduate students can register up to 18 credit hours per semester, or 21 with approval if GPA is above 3.0."
+  },
+  {
+    "question": "What is the minimum GPA required to avoid probation?",
+    "answer": "Students must maintain a GPA of at least 2.0 to avoid academic probation."
+  },
+  {
+    "question": "How can I calculate my GPA?",
+    "answer": "GPA is calculated by dividing the total grade points earned by the total credit hours attempted."
+  },
+  {
+    "question": "What should I do if I fail a course?",
+    "answer": "You can retake the failed course in the following semester. The new grade will replace the old one in your GPA calculation."
+  },
+  {
+    "question": "How can I appeal my grade?",
+    "answer": "Grade appeals must be submitted to the academic affairs office within 15 days after grades are published."
+  },
+  {
+    "question": "What are the tuition fees for undergraduate programs?",
+    "answer": "Tuition fees vary by faculty. Please check the student portal or financial office for the detailed fee structure."
+  },
+  {
+    "question": "How can I pay my tuition fees?",
+    "answer": "Tuition fees can be paid online via the student portal, by bank transfer, or directly at the cashier’s office."
+  },
+  {
+    "question": "What happens if I do not pay tuition fees on time?",
+    "answer": "Late payment may result in a financial penalty and you may be blocked from registering for the next semester."
+  },
+  {
+    "question": "Can I get a refund if I withdraw from a course?",
+    "answer": "Refunds are available if you withdraw during the first two weeks of the semester. After that, no refunds are issued."
+  },
+  {
+    "question": "What are the library opening hours?",
+    "answer": "The library is open Sunday to Thursday from 8:00 AM to 8:00 PM, and Saturday from 9:00 AM to 3:00 PM."
+  },
+  {
+    "question": "How long can I borrow a book from the library?",
+    "answer": "Undergraduate students can borrow books for 2 weeks, while graduate students can borrow for 1 month."
+  },
+  {
+    "question": "Are there penalties for overdue library books?",
+    "answer": "Yes, overdue books result in a daily fine. Students with unpaid fines may be blocked from registration."
+  },
+  {
+    "question": "Does the university offer scholarships?",
+    "answer": "Yes, the university provides merit-based and need-based scholarships. Details are available on the student portal."
+  },
+  {
+    "question": "How can I apply for a scholarship?",
+    "answer": "Scholarship applications can be submitted through the student portal under 'Financial Aid' before the deadline."
+  },
+  {
+    "question": "Can my scholarship be renewed every year?",
+    "answer": "Yes, scholarships can be renewed if you maintain the required GPA and meet the eligibility criteria."
+  },
+  {
+    "question": "Who can I contact for help with registration or fees?",
+    "answer": "You can contact the student affairs office at 010-1234-5678 or email student.affairs@uni.edu."
+  },
+  {
+    "question": "What are the registration dates for the next semester?",
+    "answer": "Registration opens on September 1 and continues until September 15. You can register through the university portal or at the registration office."
+  },
+  {
+    "question": "How can I get my transcript?",
+    "answer": "You can obtain your transcript through the student portal > Academic Records > Request Transcript. A small fee may apply."
+  },
+  {
+    "question": "What is the phone number of the student affairs office?",
+    "answer": "Student affairs office phone: 010-1234-5678 (or email student.affairs@uni.edu)."
+  },
+  {
+    "question": "Where can I find the lecture schedule?",
+    "answer": "The lecture schedule is available on the university portal under 'Schedules' and is also posted on the digital notice boards for each faculty."
+  }]
+
